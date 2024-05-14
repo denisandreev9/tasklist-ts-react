@@ -1,2 +1,1 @@
-# tasklist-ts-react
-Tasklist Project built with React JS and TypeScript
+The aim of this project is to create a tasklist, where tasks can be added, edited, deleted and marked completed. The project will later progress into separating the tasks into different columns based on completion, and will also have an Express JS server integration for interactions with this tasklist from other services potentially to display a boilerplate React JS, Express JS and TypeScript project created by the author.
